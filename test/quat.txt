@@ -1,0 +1,11 @@
+ 1  i  j  k
+ i -1  k -j
+ j  k -j -k
+ k -j -k  k
+
+  1  i  j  k
+1 1  i  j  k
+i i -1  k -j
+j j  k -j -k
+k k -j -k  k
+
